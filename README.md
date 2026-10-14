@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm David Okoth 👋
 
-<!--
-**okothdvdodhiambo-create/okothdvdodhiambo-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Software Engineer & IT Specialist
 
-Here are some ideas to get you started:
+I am a Full-Stack Developer specializing in building robust web applications using **PHP**, **JavaScript**, **Python**, **Django**, and **Next.js**. I'm passionate about system architecture, backend database management, and containerized cloud deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 About Me
+
+```javascript
+const david = {
+  pronouns: "He/Him",
+  role: "Full-Stack Software Engineer",
+  frontend: ["JavaScript", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
+  backend: ["PHP", "Python", "Django", "MySQL", "PostgreSQL"],
+  tools: ["Docker", "Git", "Laragon", "XAMPP", "VS Code"],
+  interests: ["Software Architecture", "Containerization", "Web Development"]
+};
